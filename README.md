@@ -7,10 +7,28 @@ cors
 soap
 jsonwebtoken
 ```
-#Front End
+### install
+``` 
+cd folder
+npm i
+node server.js
+```
+# Front End
+
 ``` 
 react.js
 react native
+```
+### install
+``` 
+cd folder
+npm i
+npm start
+```
+### React Native command
+``` 
+npm i
+react-native run-android
 ```
 
 # API on Heroku
