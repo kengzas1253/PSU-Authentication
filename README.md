@@ -1,5 +1,8 @@
 # PSU-Authentication
-PSU = Prince of Songkla University
+PSU = Prince of Songkla University</br>
+### PSU web
+https://www.psu.ac.th/th/
+### PSU Passport wed
 https://passport.psu.ac.th/
 # Server is Node.js
 ``` 
