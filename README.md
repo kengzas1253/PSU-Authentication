@@ -7,7 +7,7 @@ cors
 soap
 jsonwebtoken
 ```
-### install
+### install Back-end
 ``` 
 cd folder
 npm i
@@ -19,7 +19,7 @@ node server.js
 react.js
 react native
 ```
-### install
+### install Front-end
 ``` 
 cd folder
 npm i
@@ -27,7 +27,7 @@ npm start
 ```
 ### React Native command
 ``` 
-npm i
+npm start
 react-native run-android
 ```
 
