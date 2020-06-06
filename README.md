@@ -1,4 +1,6 @@
 # PSU-Authentication
+PSU = Prince of Songkla University
+https://passport.psu.ac.th/
 # Server is Node.js
 ``` 
 express
